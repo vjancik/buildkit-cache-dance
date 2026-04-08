@@ -1,4 +1,4 @@
-name: Inject/Extract Cache
+name: vjancik/buildkit-cache-dance - Inject/Extract Cache
 description: "Injects the cached data into the docker build(x|kit) process"
 inputs:
   cache-map:
